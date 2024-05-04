@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ramble Recon</string>
+    <string name="action_go">Go</string>
+    <string name="recon_title">Recon with a photo</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+
+    <string name="api_prompt">What is im the photo? What type of a thing is it? Is it dangerous to humans? If you don\'t recognize it, just respond that you can\'t recognize it.</string>
+    <string name="img1_description">Bear</string>
+    <string name="img2_description">Flower</string>
+    <string name="img3_description">Mineral</string>
+    <string name="img4_description">Trash</string>
+    <string name="img5_description">Insect</string>
+    <string name="img6_description">Bird</string>
+    <string name="img7_description">Pick An Image</string>
+</resources>
